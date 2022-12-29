@@ -5,4 +5,4 @@ console.log(pi);
 
 pi = 3;
 console.log(pi);
-// expect output: 3
+// expect output: 3. It's possible to assign more than once
