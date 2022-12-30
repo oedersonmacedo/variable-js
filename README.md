@@ -9,3 +9,5 @@
   - **Declaration**: moment the name is registered in the execution context;
   - **Initialization**: the variable is initialized with undefined;
   - **Assignment**: A value is assigned to the variable;
+- A valid identifier must start with [a-zA-Z_$] and then [a-zA-Z0-9_$], otherwise the name is invalid.
+- Should never declare variables without var, let and const. But avoid using var.
